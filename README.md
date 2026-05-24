@@ -1,16 +1,16 @@
-# 🎓 Academic Performance Analytics Dashboard
+# Academic Performance Analytics Dashboard
 
-## 📊 Project Overview
+## Project Overview
 This project involves the comprehensive analysis and visualization of academic performance data for over **3,046 MS Data Science students** across **17 distinct academic programs** between the graduation years of **2010 and 2014**. 
 
 The goal of this project was to transform raw academic records into a visual dashboard to identify historical trends in grading, compare program difficulties, and analyze demographic performance differences.
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 * **Data Processing & Cleaning:** Microsoft Excel, Python (Pandas)
 * **Data Visualization:** Python (Matplotlib, Seaborn)
 * **Analytics:** Descriptive statistics, trend analysis, categorical comparison
 
-## 💡 Key Insights & Findings
+## Key Insights & Findings
 Through processing and visualizing this dataset, several key trends emerged:
 
 1. **Overall Upward Trajectory:** The average CGPA saw a significant increase over the 5-year period, peaking at 3.61 in 2014, indicating an overall improvement in graduating cohorts over time.
@@ -22,8 +22,8 @@ Through processing and visualizing this dataset, several key trends emerged:
 * `Academic_Performance_Dashboard.xlsx`: The raw and processed dataset containing student IDs, programs, graduation years, gender, and GPA metrics.
 * `linkedin_dashboard.png`: The final consolidated graphical dashboard visualizing the key metrics and trends.
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 ![Academic Dashboard](linkedin_dashboard.png)
 
 ---
-*If you have any questions about this analysis or the dataset, feel free to reach out to me on [[LinkedIn](#)!](https://www.linkedin.com/in/ahmedbinjaffar/)*
+*If you have any questions about this analysis or the dataset, feel free to reach out to me on https://www.linkedin.com/in/ahmedbinjaffar/)*
